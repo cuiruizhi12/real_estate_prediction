@@ -1,0 +1,7 @@
+서울 열린데이터 광장
+https://data.seoul.go.kr/dataList/OA-15572/S/1/datasetView.do
+https://data.seoul.go.kr/dataList/OA-22159/S/1/datasetView.do
+
+01_store_code	: 은평구, 구로구에 속한 상권리스트(위경도 포함)
+02_store_sale	: 서울시 상권 매출액
+03_store_result	: 결과물
